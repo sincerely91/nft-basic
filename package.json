@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@alch/alchemy-web3": "^1.1.9",
-    "@openzeppelin/contracts": "^4.4.0",
+    "@openzeppelin/contracts": "^4.4.2",
     "dotenv": "^10.0.0"
   }
 }
