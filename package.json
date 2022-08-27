@@ -9,13 +9,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.0.3",
-    "ethers": "^5.0.0",
-    "hardhat": "^2.7.1"
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.0"
   },
   "dependencies": {
-    "@alch/alchemy-web3": "^1.1.9",
-    "@openzeppelin/contracts": "^4.4.0",
-    "dotenv": "^10.0.0"
+    "@alch/alchemy-web3": "^1.4.6",
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.1"
   }
 }
